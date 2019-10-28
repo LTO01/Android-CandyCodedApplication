@@ -84,13 +84,19 @@ public class MainActivity extends AppCompatActivity {
     // TODO - Task 1 - Show Store Information Activity
     // ***
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 68b203f25ef9409ab6e7cbcb42715ee7fc93dcfa
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         Intent infoIntent = new Intent(this, InfoActivity.class);
         startActivity(infoIntent);
         return super.onOptionsItemSelected(item);
+<<<<<<< HEAD
 
+=======
+>>>>>>> 68b203f25ef9409ab6e7cbcb42715ee7fc93dcfa
     }
 
     private void addCandiesToDatabase(Candy[] candies) {

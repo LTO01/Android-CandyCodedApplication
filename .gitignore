@@ -36,3 +36,7 @@ local.properties
 .Trashes
 ehthumbs.db
 Thumbs.db
+.idea/caches/gradle_models.ser
+.idea/gradle.xml
+build.gradle
+gradle/wrapper/gradle-wrapper.properties
